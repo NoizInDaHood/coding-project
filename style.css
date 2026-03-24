@@ -1,0 +1,13 @@
+nav {
+    height: 80px;
+    line-height: 80px;
+}
+
+nav .brand-logo img {
+    height: 200px;
+}
+
+.nav-wrapper {
+
+    height: 150px;
+}
